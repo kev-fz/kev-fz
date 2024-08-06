@@ -1,16 +1,35 @@
-## Hi there 👋
+Here's a GitHub bio for Kevin Fernandez, a student at Akademi Keperawatan RS Efarina:
 
-<!--
-**kev-fz/kev-fz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 Hello, I'm Kevin Fernandez!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Nursing Student | 💉 Akademi Keperawatan RS Efarina
+
+---
+
+#### About Me
+
+I'm a passionate nursing student at Akademi Keperawatan RS Efarina, dedicated to providing quality care and making a positive impact in the healthcare field. With a keen interest in patient-centered care and medical research, I'm constantly learning and growing in my journey to become a skilled healthcare professional.
+
+#### Skills
+
+- 🩺 Basic Patient Care
+- 📚 Medical Terminology
+- 💊 Pharmacology Basics
+- 📝 Clinical Documentation
+- 🤝 Teamwork & Collaboration
+- 🗣️ Effective Communication
+
+#### Interests
+
+- 🌱 Continuous Learning
+- 🧬 Medical Research
+- 🌍 Community Health
+- 💻 Health Informatics
+
+#### Get in Touch
+
+- 📫 [Email](mailto:kevin@efarina.ac.id)
+
+I'm always eager to connect with fellow students, healthcare professionals, and anyone interested in improving healthcare practices. Feel free to reach out!
